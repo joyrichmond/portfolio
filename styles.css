@@ -1,0 +1,16 @@
+html {
+    100%
+}
+
+body {
+    background-image: url(blackcomb.jpg);
+    color: white;
+}
+
+#webimages{
+    display: flex;  
+}
+
+.images{
+    flex: 1 1 auto;
+}
