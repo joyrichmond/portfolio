@@ -4,13 +4,14 @@ html {
 
 body {
     background-image: url(blackcomb.jpg);
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
 }
 
 #headerbar {
-    margin-top: 8em;
+    margin: 12em 0 12em 0;
     box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.6), -10px -10px 50px rgba(0, 0, 0, 0.6);
     padding: 0.2em;
     background-color: rgba(0, 0, 0, 0.6);
