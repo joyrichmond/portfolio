@@ -60,11 +60,16 @@ h3 {
 .images{
     flex: 1 1 auto;
     text-align: center;
-    margin: none;
 }
 
-img{
+.portfolio-img{
     max-width: 75%;
     height: auto;
     border: 0.05em solid white;
+    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.portfolio-img:hover {
+    box-shadow: 2px 2px 2px #636363, -2px -2px 2px #636363;
 }
