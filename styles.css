@@ -1,5 +1,5 @@
 html {
-    100%
+    min-height: 100%
 }
 
 body {
@@ -68,8 +68,11 @@ h3 {
     border: 0.05em solid white;
     padding: 2em;
     background-color: rgba(0, 0, 0, 0.85);
+    filter: brightness(60%);
 }
 
 .portfolio-img:hover {
     box-shadow: 2px 2px 2px #636363, -2px -2px 2px #636363;
+    opacity: 1;
+    filter: brightness(100%)
 }
