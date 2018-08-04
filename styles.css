@@ -69,13 +69,14 @@ h2 {
 }
 
 .website-descriptions {
-    margin: 0 6em 3em 6em;
+    margin: 0 6em 0 6em;
 }
 
 h4 {
     font-family: 'Raleway', sans-serif;
     text-align: left;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
+    margin-top: 3em;
 }
 
 p {
@@ -90,6 +91,12 @@ p>a {
 
 p>a:hover {
     color: #8aa4ce;
+}
+
+ul {
+    font-family: 'Raleway', sans-serif;
+    list-style-image: url(whitesquarebullet.png);
+    text-align: left;
 }
 .images{
     flex: 1 1 auto;
@@ -107,4 +114,10 @@ p>a:hover {
     box-shadow: 2px 2px 2px #636363, -2px -2px 2px #636363;
     opacity: 1;
     filter: brightness(100%)
+}
+
+footer {
+    min-height: 100px;
+    line-height: 100px;
+    text-align: right;
 }
