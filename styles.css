@@ -55,12 +55,12 @@ h3 {
     border-left: 1px solid white;
     border-right: 1px solid white;
     margin: 0 2em;
-    max-width: 27em;
-    justify-content: space-evenly;
+    flex: 1 1 0;
 }
 
 #webimages{
     display: flex;  
+    margin: 0 4em;  
 }
 
 h2 {
