@@ -39,7 +39,7 @@ h1 {
     margin: 50px 0 0 0;
 }
 
-h3 {
+h2 {
     text-align: center;
     font-size: 1.8em;
     font-family: 'Raleway', sans-serif;
@@ -63,26 +63,29 @@ h3 {
     margin: 0 4em;  
 }
 
-h2 {
+h4 {
     font-family: 'Raleway', sans-serif;
     text-align: left;
+    font-size: 1.7em;
 }
 
 .website-descriptions {
     margin: 0 6em 0 6em;
 }
 
-h4 {
+h5 {
     font-family: 'Raleway', sans-serif;
     text-align: left;
     margin-bottom: 1em;
     margin-top: 3em;
+    font-size: 1.1em;
 }
 
 p {
     font-family: 'Raleway', sans-serif;
     margin: 0 0 1em 0;
     text-align: left;
+    font-size: 1.1em;
 }
 p>a {
     color: #b2b2b2;
@@ -120,5 +123,6 @@ footer>p {
     line-height: 100px;
     text-align: right;
     margin: 0;
-    background-color: #090909;
+    background-color: #0b0b0b;
+    font-size: 0.8em;
 }
