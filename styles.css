@@ -116,8 +116,8 @@ ul {
     filter: brightness(100%)
 }
 
-footer {
-    min-height: 100px;
+footer>p {
     line-height: 100px;
     text-align: right;
+    margin: 0;
 }
