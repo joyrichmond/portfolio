@@ -76,6 +76,7 @@ p {
     margin-top: 2rem;
     height: auto;
     background-color: rgba(0, 0, 0, 0.85);
+    box-shadow: 2px 2px 0 #636363, -2px -2px 0 #636363;
 }
 
 footer>p {
