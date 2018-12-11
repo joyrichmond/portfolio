@@ -76,13 +76,6 @@ p {
     margin-top: 2rem;
     height: auto;
     background-color: rgba(0, 0, 0, 0.85);
-    filter: brightness(60%);
-}
-
-.portfolio-img:hover {
-    box-shadow: 2px 2px 2px #636363, -2px -2px 2px #636363;
-    opacity: 1;
-    filter: brightness(100%)
 }
 
 footer>p {
@@ -247,9 +240,6 @@ footer>p {
         }
         
         .portfolio-img{
-            max-width: 75%;
-            height: auto;
-            background-color: rgba(0, 0, 0, 0.85);
             filter: brightness(60%);
         }
         
